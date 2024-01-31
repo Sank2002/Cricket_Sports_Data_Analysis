@@ -13,4 +13,4 @@ Key Tasks
 
     Data Visualization:
         Create meaningful visualizations to communicate insights effectively.
-        Utilize libraries such as Matplotlib and Seaborn for compelling visual representations.
+        Utilize libraries such as Plotly for compelling visual representations.
